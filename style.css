@@ -164,3 +164,7 @@ body {
 .color-backgroung {
     background-color: rgb(255, 255, 255);
 }
+
+.posi {
+    float: right;
+}
