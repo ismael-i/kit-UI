@@ -58,7 +58,7 @@ body {
     text-align: center;
 }
 
-.col-sm-4 {
+.position_cols {
     margin-top: 10%;
 }
 
@@ -139,4 +139,28 @@ body {
 
 .text-white {
     color: #fff
+}
+
+.modal {
+    background-color: rgb(255, 255, 255);
+}
+
+.list-comment {
+    margin: 10%;
+}
+
+.md-4 {
+    margin-left: ;
+}
+
+.pos {
+    float: right;
+}
+
+.image-size {
+    width: 100%;
+}
+
+.color-background {
+    background-color: rgb(255, 255, 255);
 }
