@@ -150,7 +150,7 @@ body {
 }
 
 .md-4 {
-    margin-left: ;
+    margin-left: 0;
 }
 
 .pos {
@@ -167,4 +167,12 @@ body {
 
 .posi {
     float: right;
+}
+
+.font-text {
+    font-family: Neue Plak, -apple-system, BlinkMacSystemFont, Roboto, Helvetica Neue, Helvetica, Tahoma, Arial, sans-serif;
+}
+
+.presentation-ms {
+    margin: 30px;
 }
